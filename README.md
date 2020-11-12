@@ -48,4 +48,4 @@ Now, open the browser and access `http://localhost:8080/add.html` and you will s
 
 ## More information
 
-To know more details about it, check the article here.
+To know more details about it, check the article [here](https://medium.com/vacatronics/how-to-write-a-webassembly-app-in-c-c-6c560438a844?source=friends_link&sk=5aa4c2bd68fb6295c7cd7209052d2357).
